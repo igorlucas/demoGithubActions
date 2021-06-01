@@ -1,0 +1,14 @@
+name: comentario-na-pr
+
+on: pull_request
+
+jobs:
+  comentar-na-pr:
+    runs-on: ubuntu-latest
+    
+    steps: 
+    - name: Comentando na PR
+      uses: thollander/actions-comment-pull-request@master
+      with:
+        message: 'Obrigado pela PR, o time vai revisar em breve.'
+        GIT_HUB_TOKEN: ${{ secrets.GIT_HUB_TOKEN }}

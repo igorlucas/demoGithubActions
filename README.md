@@ -31,6 +31,8 @@ No momento da instalação, escolha a instalação de plugins sugeridos, como po
 
 ![image](https://user-images.githubusercontent.com/11475845/121449697-b1b6cf00-c970-11eb-9432-ff0c1af6199d.png)
 
+Instale e configure o plugin MSBuilder no Jenkins, [link útil aqui](https://blog.couchbase.com/continuous-deployment-with-jenkins-and-net/#:~:text=MSBuild%20configuration%201%20Navigate%20to%20http%3A%2F%2Flocalhost%3A8080%2F%202%20Click,your%20system.Read%20below%20for%20...%209%20Click%20save.).
+
 Após a conclusão da instalação, crie um novo job.
 
 ![image](https://user-images.githubusercontent.com/11475845/121449798-e460c780-c970-11eb-87ab-dc6c06a4cf91.png)

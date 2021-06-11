@@ -41,6 +41,8 @@ Esse job será usando para criar o pipeline executado no projeto, então o próx
 
 ![fGCtJNnhOZ](https://user-images.githubusercontent.com/11475845/121449897-14a86600-c971-11eb-99a2-1c7cfc7aba6e.gif)
 
+Veja o video com a demonstração da execução do projeto [clicando aqui](https://youtu.be/V6AxXv6nYiU).
+
 ## Scrip do Pipeline
 ```
 pipeline {
